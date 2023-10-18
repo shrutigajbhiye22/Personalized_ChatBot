@@ -1,4 +1,4 @@
-# Personalised ChatBot
+# Personalized ChatBot
 
 ## To run this application:
 1. Open the new terminal
